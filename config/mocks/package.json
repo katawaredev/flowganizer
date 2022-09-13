@@ -1,0 +1,7 @@
+{
+  "name": "@config/mocks",
+  "devDependencies": {
+    "binode": "^1.0.5",
+    "msw": "^0.47.0"
+  }
+}
